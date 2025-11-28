@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img width="100%" src="https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/seo/og-image.png?raw=true" alt="Hari's Portfolio Banner" />
+   
   </a>
 </p>
 
