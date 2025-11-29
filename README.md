@@ -17,7 +17,7 @@
 
 🎯 **Full Stack Developer** passionate about building impactful web applications
 
-🌍 **Location:** Earth | 💼 **Pronouns:** He/Him
+🌍 **Location:** Earth
 
 </div>
 
