@@ -1,11 +1,9 @@
 <div align="center">
   
 <!-- Animated Header -->
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm a Developer
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm harir03
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Code+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=harir03&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="Profile Views"/>
 
 </div>
 
@@ -13,32 +11,57 @@
 
 ## 💫 About Me
 
-```javascript
-const developer = {
-    name: "Developer",
-    title: "Full Stack Developer",
-    location: "🌍 Earth",
-    code: ["JavaScript", "Python", "TypeScript", "Java"],
-    askMeAbout: ["Web Dev", "Tech", "Open Source"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "Docker", "VS Code"]
-    },
-    currentFocus: "Building cool stuff & contributing to open source",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+<div align="center">
+
+### 👋 Hi, I'm **harir03**
+
+🎯 **Full Stack Developer** passionate about building impactful web applications
+
+🌍 **Location:** Earth | 💼 **Pronouns:** He/Him
+
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+#### 🚀 What I Do
+- 💻 Building full-stack web applications
+- 🌐 Creating responsive & accessible UIs
+- ⚙️ Developing RESTful APIs & backends
+- 🔧 DevOps & CI/CD automation
+
+</td>
+<td valign="top" width="50%">
+
+#### 📚 Currently Learning
+- ☁️ Cloud Architecture (AWS/GCP)
+- 🏗️ System Design Patterns
+- 🤖 AI/ML Integration
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=algolia&animation=grow_out_in&layout=churchill&font=Redressed" alt="Quote"/>
+
+#### 💬 Ask Me About
+`Web Development` `React` `Node.js` `Python` `Open Source` `Problem Solving`
+
+#### ⚡ Fun Fact
+*"There are two ways to write error-free programs; only the third one works"*
+
+**☕ Motto:** Code. Debug. Coffee. Repeat.
+
+</div>
+
+<!-- Animated Digital Rain Effect -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1117,100:000000&height=80&section=header&text=&fontSize=1" alt="Spacer"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=16&duration=80&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+SYSTEM+ONLINE+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E%3E+Welcome+to+harir03's+Digital+Space+%3C%3C;Loading+awesome+projects...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Terminal Animation"/>
 </div>
 
 ---
@@ -80,23 +103,18 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harir03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harir03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harir03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harir03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harir03/harir03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harir03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
