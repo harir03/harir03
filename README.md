@@ -15,7 +15,7 @@
 
 ```javascript
 const harir03 = {
-    pronouns: "He" | "Him",
+    pronouns: ["He", "Him"],
     username: "harir03",
     title: "Full Stack Developer",
     location: "🌍 Earth",
