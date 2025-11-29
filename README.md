@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm a Developer
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm harir03
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Code+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
 
@@ -14,31 +14,45 @@
 ## 💫 About Me
 
 ```javascript
-const developer = {
-    name: "Developer",
+const harir03 = {
+    pronouns: "He" | "Him",
+    username: "harir03",
     title: "Full Stack Developer",
     location: "🌍 Earth",
-    code: ["JavaScript", "Python", "TypeScript", "Java"],
-    askMeAbout: ["Web Dev", "Tech", "Open Source"],
+    
+    languages: ["JavaScript", "Python", "TypeScript", "Java", "HTML", "CSS"],
+    
+    askMeAbout: ["Web Development", "Tech", "Open Source", "Problem Solving"],
+    
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
+            frameworks: ["React", "Vue", "Next.js"],
+            styling: ["Tailwind CSS", "Bootstrap", "Sass", "Styled Components"]
         },
         backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"]
+            javascript: ["Node.js", "Express.js"],
+            python: ["Django", "FastAPI", "Flask"]
         },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "Docker", "VS Code"]
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        devOps: ["Docker", "GitHub Actions", "Vercel", "Netlify"],
+        tools: ["Git", "VS Code", "Postman", "Figma"]
     },
-    currentFocus: "Building cool stuff & contributing to open source",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    
+    currentlyLearning: ["Cloud Architecture", "System Design", "AI/ML"],
+    currentFocus: "Building impactful projects & contributing to open source",
+    
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    motto: "Code. Debug. Coffee. Repeat. ☕"
 };
 ```
 
+<!-- Binary Matrix Rain Animation -->
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=algolia&animation=grow_out_in&layout=churchill&font=Redressed" alt="Quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=01001000%2001000101%2001001100%2001001100%2001001111&fontSize=20&fontColor=00d9ff&animation=fadeIn&fontAlignY=30&desc=Binary%20Encoded%3A%20HELLO&descSize=12&descAlignY=60&descColor=58a6ff" alt="Binary Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=100&pause=50&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=01+10+11+00+10+01+11+00+01+10+00+11+10+01+00+11;10+01+00+11+01+10+00+11+10+01+11+00+01+10+11+00" alt="Matrix"/>
 </div>
 
 ---
@@ -83,20 +97,34 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harir03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harir03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <a href="https://github.com/harir03">
+    <img src="https://github-readme-stats.vercel.app/api?username=harir03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/harir03">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harir03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harir03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/harir03">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harir03&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harir03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harir03/harir03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harir03/harir03/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harir03/harir03/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/harir03/harir03/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
