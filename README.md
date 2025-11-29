@@ -5,54 +5,63 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Code+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=harir03&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="Profile Views"/>
-
 </div>
 
 ---
 
 ## 💫 About Me
 
-```javascript
-const harir03 = {
-    pronouns: ["He", "Him"],
-    username: "harir03",
-    title: "Full Stack Developer",
-    location: "🌍 Earth",
-    
-    languages: ["JavaScript", "Python", "TypeScript", "Java", "HTML", "CSS"],
-    
-    askMeAbout: ["Web Development", "Tech", "Open Source", "Problem Solving"],
-    
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Vue", "Next.js"],
-            styling: ["Tailwind CSS", "Bootstrap", "Sass", "Styled Components"]
-        },
-        backEnd: {
-            javascript: ["Node.js", "Express.js"],
-            python: ["Django", "FastAPI", "Flask"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "GitHub Actions", "Vercel", "Netlify"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    
-    currentlyLearning: ["Cloud Architecture", "System Design", "AI/ML"],
-    currentFocus: "Building impactful projects & contributing to open source",
-    
-    funFact: "There are two ways to write error-free programs; only the third one works",
-    motto: "Code. Debug. Coffee. Repeat. ☕"
-};
-```
-
-<!-- Binary Matrix Rain Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=01001000%2001000101%2001001100%2001001100%2001001111&fontSize=20&fontColor=00d9ff&animation=fadeIn&fontAlignY=30&desc=Binary%20Encoded%3A%20HELLO&descSize=12&descAlignY=60&descColor=58a6ff" alt="Binary Animation"/>
+
+### 👋 Hi, I'm **harir03**
+
+🎯 **Full Stack Developer** passionate about building impactful web applications
+
+🌍 **Location:** Earth | 💼 **Pronouns:** He/Him
+
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+#### 🚀 What I Do
+- 💻 Building full-stack web applications
+- 🌐 Creating responsive & accessible UIs
+- ⚙️ Developing RESTful APIs & backends
+- 🔧 DevOps & CI/CD automation
+
+</td>
+<td valign="top" width="50%">
+
+#### 📚 Currently Learning
+- ☁️ Cloud Architecture (AWS/GCP)
+- 🏗️ System Design Patterns
+- 🤖 AI/ML Integration
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+#### 💬 Ask Me About
+`Web Development` `React` `Node.js` `Python` `Open Source` `Problem Solving`
+
+#### ⚡ Fun Fact
+*"There are two ways to write error-free programs; only the third one works"*
+
+**☕ Motto:** Code. Debug. Coffee. Repeat.
+
+</div>
+
+<!-- Animated Digital Rain Effect -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1117,100:000000&height=80&section=header&text=&fontSize=1" alt="Spacer"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=100&pause=50&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=01+10+11+00+10+01+11+00+01+10+00+11+10+01+00+11;10+01+00+11+01+10+00+11+10+01+11+00+01+10+11+00" alt="Matrix"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=16&duration=80&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+SYSTEM+ONLINE+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E%3E+Welcome+to+harir03's+Digital+Space+%3C%3C;Loading+awesome+projects...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Terminal Animation"/>
 </div>
 
 ---
