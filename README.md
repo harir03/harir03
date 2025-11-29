@@ -103,37 +103,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/harir03">
-    <img src="https://github-readme-stats.vercel.app/api?username=harir03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/harir03">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harir03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/harir03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harir03&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harir03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harir03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harir03/harir03/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harir03/harir03/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/harir03/harir03/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harir03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
