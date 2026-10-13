@@ -157,7 +157,7 @@ Hi, I'm **Hari Reddy**. I'm a pre-final year Electronics & Telecommunication stu
 
 <img src="assets/invaders.svg" width="95%" alt="Animated Space Invaders contribution defense">
 
-<sub>An animated SVG powered by the public contribution calendar, not a playable game.</sub>
+
 
 </div>
 
