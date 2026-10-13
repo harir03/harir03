@@ -1,0 +1,31 @@
+{
+  "user": "harir03",
+  "generated_date": "2026-10-13",
+  "public_contributions": 982,
+  "calendar_days": 367,
+  "language_bytes": {
+    "TypeScript": 15300950,
+    "Python": 83827004,
+    "JavaScript": 2919252,
+    "CSS": 553529,
+    "Shell": 19110,
+    "Dockerfile": 34534,
+    "HTML": 120791,
+    "PowerShell": 29529,
+    "Mako": 591,
+    "Solidity": 20400,
+    "PLpgSQL": 9894,
+    "Nix": 1584,
+    "Cython": 1483676,
+    "C": 1235413,
+    "C++": 383145,
+    "XSLT": 166618,
+    "Fortran": 40333,
+    "Meson": 4624,
+    "Assembly": 3086,
+    "Batchfile": 1502,
+    "Go Template": 356,
+    "Java": 281191,
+    "Cypher": 63100
+  }
+}

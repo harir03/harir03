@@ -1,0 +1,34 @@
+{
+  "title": "Skill map (unranked)",
+  "_comment": "All included focus areas use 100 as a presence marker, NOT a proficiency score. Edit values and title only when you choose your own self-ratings.",
+  "axes": [
+    {
+      "label": "Python",
+      "value": 100
+    },
+    {
+      "label": "TypeScript",
+      "value": 100
+    },
+    {
+      "label": "React",
+      "value": 100
+    },
+    {
+      "label": "FastAPI",
+      "value": 100
+    },
+    {
+      "label": "LLM / MCP",
+      "value": 100
+    },
+    {
+      "label": "RAG tooling",
+      "value": 100
+    },
+    {
+      "label": "Git / CI",
+      "value": 100
+    }
+  ]
+}

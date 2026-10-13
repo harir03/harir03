@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "repo": "altgrade-aws",
+      "description": "AltGrade: AI credit scoring with a calibrated score and fairness audit."
+    },
+    {
+      "repo": "aria",
+      "description": "ARIA: layered cybersecurity reverse proxy with local Ollama threat screening."
+    },
+    {
+      "repo": "micro.ai",
+      "description": "Verity: multi-agent pull request verification with five review agents."
+    }
+  ]
+}

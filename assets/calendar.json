@@ -1,0 +1,19 @@
+{
+  "_comment": "Configuration for 3D animated isometric contribution calendar. Adjust settings and run 'python scripts/isocalendar.py' to regenerate assets/metrics.isocalendar.svg",
+  "username": "harir03",
+  "animation": {
+    "enabled": true,
+    "duration": 2.2,
+    "stagger": 0.035,
+    "loop": true,
+    "hold": 4.5
+  },
+  "height_multiplier": 1.0,
+  "palette": "github",
+  "streaks": {
+    "override_current": null,
+    "override_best": null,
+    "override_highest": null,
+    "override_average": null
+  }
+}
